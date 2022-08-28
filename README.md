@@ -26,6 +26,6 @@
 ##
 
 >_Olá!_ Eu me chamo Daniel, tenho 26 Anos e sou Estudante Atualmente na Area de Desenvolvimento de Sistema na intituição **ESBAM**. Ah !
->**AMAZONAS** Eu Amo muito este estado maravilhoso repleto de oportunidades e esuberante de floresta virgem,cultura e diversidade.
+>**AMAZONAS** Eu Amo muito este estado maravilhoso repleto de oportunidades e exuberante de floresta virgem,cultura e diversidade.
 >Meu Objetivo é buscar conhecimento,experiencia, aprender,analizar,inovar e também criar caminhos junto com a tecnologia e meus conhecimentos conseituais.
 >
